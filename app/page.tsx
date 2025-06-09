@@ -8,16 +8,11 @@ import {
   Twitter,
   Instagram,
   Youtube,
-  Wifi,
-  Car,
-  Utensils,
-  Dumbbell,
-  Waves,
 } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { Card, CardContent } from "@/components/ui/card"
+
 import { useEffect, useRef, useState } from "react"
 
 export default function Home() {
