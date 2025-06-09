@@ -62,7 +62,7 @@ export default function Home() {
               <span>+183229719349</span>
             </div>
             <a
-  href="https://www.booking.com/hotel/us/cambridge-inn.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaLUBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKKxp3CBsACAdICJDI4YjExZTM2LTQyN2YtNDRhNy1iYzc2LWQ2MDI0YzYwZWY1MtgCBeACAQ&sid=55b6502435b2d97c4ba08b2070c38491&aid=304142&ucfs=1&arphpl=1"
+  href="https://live.ipms247.com/booking/book-rooms-delosreyespalmsprings"
   target="_blank"
   rel="noopener noreferrer"
   className="bg-blue-600 hover:bg-blue-700 text-white flex items-center gap-2 px-6 py-2 rounded-md font-medium transition"
@@ -79,7 +79,7 @@ export default function Home() {
             <br/>with your family
           </h1>
           <p className="text-slate-300 mt-6 max-w-xl text-lg">Duis aute irure dolor in reprehenderit in voluptat.</p>
-          <Link href="https://www.booking.com/hotel/us/cambridge-inn.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaLUBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKKxp3CBsACAdICJDI4YjExZTM2LTQyN2YtNDRhNy1iYzc2LWQ2MDI0YzYwZWY1MtgCBeACAQ&sid=55b6502435b2d97c4ba08b2070c38491&aid=304142&ucfs=1&arphpl=1" target="_blank" rel="noopener noreferrer" className="mt-8">
+          <Link href="https://live.ipms247.com/booking/book-rooms-delosreyespalmsprings" target="_blank" rel="noopener noreferrer" className="mt-8">
             <Button
               className="border-white border-2 hover: bg-transparent rounded-full text-white px-8 py-3 text-lg"
             >
@@ -134,7 +134,7 @@ export default function Home() {
             carefully considered to ensure your stay exceeds expectations. From our world-class amenities to our
             personalized service, we create memories that last a lifetime.
           </p>
-          <Link href="https://www.booking.com/hotel/us/cambridge-inn.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaLUBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKKxp3CBsACAdICJDI4YjExZTM2LTQyN2YtNDRhNy1iYzc2LWQ2MDI0YzYwZWY1MtgCBeACAQ&sid=55b6502435b2d97c4ba08b2070c38491&aid=304142&ucfs=1&arphpl=1" target="_blank" rel="noopener noreferrer">
+          <Link href="https://live.ipms247.com/booking/book-rooms-delosreyespalmsprings" target="_blank" rel="noopener noreferrer">
             <Button className="bg-slate-800 hover:bg-slate-900 text-white px-6 py-3">Explore Rooms</Button>
           </Link>
         </div>
@@ -380,9 +380,9 @@ export default function Home() {
           <p className="text-slate-300 mb-8 text-lg">
             Book your stay now and enjoy exclusive benefits and special offers.
           </p>
-          <Link href="https://www.booking.com/hotel/us/cambridge-inn.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaLUBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKKxp3CBsACAdICJDI4YjExZTM2LTQyN2YtNDRhNy1iYzc2LWQ2MDI0YzYwZWY1MtgCBeACAQ&sid=55b6502435b2d97c4ba08b2070c38491&aid=304142&ucfs=1&arphpl=1" target="_blank" rel="noopener noreferrer">
+          <Link href="https://live.ipms247.com/booking/book-rooms-delosreyespalmsprings" target="_blank" rel="noopener noreferrer">
             <Button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-6 text-lg">
-              Book Now on Booking.com
+              Book Now
             </Button>
           </Link>
         </div>
