@@ -59,7 +59,7 @@ export default function Home() {
           <div className="flex items-center gap-6">
             <div className="hidden md:flex items-center text-white">
               <Phone className="w-4 h-4 mr-2" />
-              <span>+183229719349</span>
+              <span>+1760-325-5574</span>
             </div>
             <a
   href="https://live.ipms247.com/booking/book-rooms-delosreyespalmsprings"
@@ -78,7 +78,6 @@ export default function Home() {
             Enjoy a comfortable stay 
             <br/>with your family
           </h1>
-          <p className="text-slate-300 mt-6 max-w-xl text-lg">Duis aute irure dolor in reprehenderit in voluptat.</p>
           <Link href="https://live.ipms247.com/booking/book-rooms-delosreyespalmsprings" target="_blank" rel="noopener noreferrer" className="mt-8">
             <Button
               className="border-white border-2 hover: bg-transparent rounded-full text-white px-8 py-3 text-lg"
@@ -87,11 +86,6 @@ export default function Home() {
             </Button>
           </Link>
           <div className="mt-12  gap-6 text-white">
-
-            <p className="text-slate-300 mt-6 max-w-xl text-lg">
-            HÔTEL DE   PREMIUM
-          </p>
-
           <h2 className="text-3xl md:text-4xl lg:text-4xl font-medium text-white max-w-3xl leading-tight mt-6">
             "Your comfort is our main focus"
           </h2>
@@ -130,7 +124,7 @@ export default function Home() {
         <div className="space-y-6">
           <h2 className="text-4xl md:text-5xl font-bold text-slate-800">"Your comfort is our main focus"</h2>
           <p className="text-slate-600 text-lg leading-relaxed">
-            Experience unparalleled luxury and comfort in our meticulously designed spaces. Every detail has been
+            Experience unparalleled comfort in our meticulously designed spaces. Every detail has been
             carefully considered to ensure your stay exceeds expectations. From our world-class amenities to our
             personalized service, we create memories that last a lifetime.
           </p>
@@ -169,11 +163,11 @@ export default function Home() {
     <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
       <div className="text-center">
         <div className="relative h-48 mb-4 rounded-lg overflow-hidden">
-          <Image src="/03.jpg" alt="Pool" fill className="object-cover" />
+          <Image src="/22.jpg" alt="Pool" fill className="object-cover" />
         </div>
         <h3 className="text-xl font-bold mb-2">Pool</h3>
         <p className="text-slate-600">
-          Enjoy our stunning infinity pool with panoramic views and poolside service.
+          Enjoy our stunning infinity pool with panoramic views.
         </p>
       </div>
 
@@ -223,7 +217,7 @@ export default function Home() {
         </div>
         <h3 className="text-xl font-bold mb-2">Parking</h3>
         <p className="text-slate-600">
-          Complimentary valet parking service with 24-hour security and car care.
+          Complimentary parking service.
         </p>
       </div>
     </div>
@@ -396,21 +390,10 @@ export default function Home() {
               <div>
                 <h3 className="text-2xl font-bold mb-6">HOTEL BOOKING</h3>
                 <div className="text-slate-300">
-                  <p>1277 South Palm Canyon Drive, Palm Springs, CA</p>
-                  <p>Phone: +183229719349</p>
-                  <p>Email: baldawa@gmail.com</p>
+                  <p>1277 S Palm Canyon Dr, Palm Springs, CA 92264</p>
+                  <p>Phone: +1760-325-5574</p>
+                  <p>Email: delosreyeshotel@gmail.com</p>
                 </div>
-              </div>
-
-              <div>
-                <h3 className="text-lg font-bold mb-6">NEWSLETTER</h3>
-                <div className="flex gap-2 mb-4">
-                  <Input placeholder="ENTER EMAIL" className="bg-slate-800 border-slate-700 text-white" />
-                  <Button variant="outline" className="border-white text-white hover:bg-white hover:text-slate-900">
-                    <ChevronRight className="w-4 h-4" />
-                  </Button>
-                </div>
-                <p className="text-slate-400 text-sm">Get promo codes, coupons and interesting news from us.</p>
               </div>
             </div>
           </div>
@@ -419,7 +402,7 @@ export default function Home() {
             
 
             <div className="flex items-center gap-6">
-              <div className="text-sm text-slate-300">CALL +183229719349</div>
+              <div className="text-sm text-slate-300">CALL +1760-325-5574</div>
               <div className="flex gap-3">
                 <Link href="#" className="text-slate-300 hover:text-white">
                   <Facebook className="w-5 h-5" />
