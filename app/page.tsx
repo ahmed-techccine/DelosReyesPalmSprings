@@ -403,7 +403,7 @@ export default function Home() {
 
             <div className="flex items-center gap-6">
               <div className="text-sm text-slate-300">CALL +1760-325-5574</div>
-              <div className="flex gap-3">
+              {/* <div className="flex gap-3">
                 <Link href="#" className="text-slate-300 hover:text-white">
                   <Facebook className="w-5 h-5" />
                 </Link>
@@ -416,11 +416,11 @@ export default function Home() {
                 <Link href="#" className="text-slate-300 hover:text-white">
                   <Youtube className="w-5 h-5" />
                 </Link>
-              </div>
+              </div> */}
             </div>
           </div>
 
-          <div className="py-6 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center">
+          {/* <div className="py-6 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center">
             <div className="text-sm text-slate-400">© Copyright by AllDesign-Studio - All right reserved.</div>
             <div className="flex gap-2 mt-4 md:mt-0">
               <div className="text-xs text-slate-400 mr-4">PAYMENTS:</div>
@@ -430,7 +430,7 @@ export default function Home() {
                 </div>
               ))}
             </div>
-          </div>
+          </div> */}
         </div>
       </footer>
     </div>
